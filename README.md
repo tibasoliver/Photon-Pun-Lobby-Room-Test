@@ -36,6 +36,18 @@ Ao final do jogo haverá um report com o resultado do game e um botão que lhe c
 
 ![image](https://github.com/tibasoliver/Photon-Pun-Lobby-Room-Test/assets/33914941/ff919263-0cc3-4180-988b-c1f155caf788)
 
+## Features Adicionais
+
+### Permanência no Lobby
+Caso o segundo player saia da room você permanecerá na mesma, até que um novo jogador entre na room.
+
+![image](https://github.com/tibasoliver/Photon-Pun-Lobby-Room-Test/assets/33914941/b3d708d2-e71d-4a6f-8f90-30e0e21ab4e9)
+
+### Mostrar velocidade da conexão com o servidor da photon
+
+Feedback da conexão naquele instante.
+
+![image](https://github.com/tibasoliver/Photon-Pun-Lobby-Room-Test/assets/33914941/7f73ed22-85f1-4d28-8b52-7d68bc392490)
 
 
 
